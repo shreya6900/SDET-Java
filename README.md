@@ -1,5 +1,5 @@
+
 package ThreadDemo;
- 
 class ThreadDemo extends Thread
 {
 	private Thread t;
